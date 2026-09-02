@@ -1,0 +1,12 @@
+{
+  "name": "day-6-17_08_2026",
+  "version": "1.0.0",
+  "description": "Express query parameters and route parameters demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
