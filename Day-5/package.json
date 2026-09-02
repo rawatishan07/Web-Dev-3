@@ -1,0 +1,12 @@
+{
+  "name": "day-5-14_08_2026",
+  "version": "1.0.0",
+  "description": "Node.js HTTP POST Request handling",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
