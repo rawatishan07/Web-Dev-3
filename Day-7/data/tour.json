@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Goa Beach Escape",
+        "destination": "Goa",
+        "days": 5,
+        "price": 12000
+    },
+    {
+        "id": 2,
+        "name": "Manali Adventure",
+        "destination": "Manali",
+        "days": 3,
+        "price": 22000
+    },
+    {
+        "id": 3,
+        "name": "Jaipur Heritage Tour",
+        "destination": "Jaipur",
+        "days": 7,
+        "price": 25000
+    },
+    {
+        "id": 4,
+        "name": "Goa Beach Escape 2",
+        "destination": "Goa",
+        "days": 6,
+        "price": 22000
+    }
+]
