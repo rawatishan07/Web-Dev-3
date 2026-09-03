@@ -1,0 +1,12 @@
+{
+  "name": "day-8-21_08_2026",
+  "version": "1.0.0",
+  "description": "Full Tour RESTful CRUD API under Express MVC Architecture",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
