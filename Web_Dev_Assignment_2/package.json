@@ -1,0 +1,16 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "Student Management REST API built with Node.js and Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": ["express", "node", "rest-api", "crud"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
